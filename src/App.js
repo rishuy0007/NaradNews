@@ -16,14 +16,14 @@ const App = ()=>{
     return (
       <div>
       
-        <Router>
+        <Router basename="/naradnews">
           <NavBar />
 
           <LoadingBar color="#f11946" progress={progress} />
           <Routes>
             <Route
               exact
-              path="/"
+              path="/naradnews"
               element={
                 <News
                   setProgress={setProgress}
