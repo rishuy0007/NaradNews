@@ -1,4 +1,4 @@
-//for class based components
+
 import "./App.css";
 
 import React, { useState } from "react";
@@ -15,6 +15,7 @@ const App = ()=>{
 
     return (
       <div>
+      
         <Router>
           <NavBar />
 
