@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/NaradNews/static/css/main.abd64e84.css",
-    "main.js": "/NaradNews/static/js/main.72460ee0.js",
-    "static/js/787.4c026eef.chunk.js": "/NaradNews/static/js/787.4c026eef.chunk.js",
-    "static/media/loading.gif": "/NaradNews/static/media/loading.a0af111c159d03f64f30.gif",
-    "index.html": "/NaradNews/index.html",
-    "main.abd64e84.css.map": "/NaradNews/static/css/main.abd64e84.css.map",
-    "main.72460ee0.js.map": "/NaradNews/static/js/main.72460ee0.js.map",
-    "787.4c026eef.chunk.js.map": "/NaradNews/static/js/787.4c026eef.chunk.js.map"
+    "main.css": "/naradnews/static/css/main.abd64e84.css",
+    "main.js": "/naradnews/static/js/main.ac0007ef.js",
+    "static/js/787.4c026eef.chunk.js": "/naradnews/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/naradnews/static/media/loading.a0af111c159d03f64f30.gif",
+    "index.html": "/naradnews/index.html",
+    "main.abd64e84.css.map": "/naradnews/static/css/main.abd64e84.css.map",
+    "main.ac0007ef.js.map": "/naradnews/static/js/main.ac0007ef.js.map",
+    "787.4c026eef.chunk.js.map": "/naradnews/static/js/787.4c026eef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.72460ee0.js"
+    "static/js/main.ac0007ef.js"
   ]
 }
